@@ -62,7 +62,6 @@ create*.py
 delete*.py
 *delete*.py
 *.sql
-*.md
 !migrations/README.md
 insert*.py
 *insert*.py
